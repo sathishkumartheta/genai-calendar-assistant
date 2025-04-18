@@ -85,7 +85,7 @@ It’s a bit like one person figuring out *what* to do, and another actually *do
 ## 🖼️ Architecture in a Nutshell
 
 <p align="center">
-  <img src="/assets/calendar_architecture.png" alt="AI Calendar Assistant Architecture" width="600"/>
+  <img src="image.png" alt="AI Calendar Assistant Architecture" width="600"/>
 </p>
 
 ---
