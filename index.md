@@ -49,7 +49,7 @@ This project brings together:
 
 ## 📐 Architecture
 
-![AI Calendar Assistant Architecture](A_flowchart_in_the_digital_illustration_depicts_an.png)
+![AI Calendar Assistant Architecture](image.png)
 
 ### 🔁 Workflow:
 
