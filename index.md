@@ -49,7 +49,8 @@ This project brings together:
 
 ## 📐 Architecture
 
-![AI Calendar Assistant Architecture](image.png)
+<img src="image.png" alt="AI Calendar Assistant Architecture" width="600"/>
+
 
 ### 🔁 Workflow:
 
