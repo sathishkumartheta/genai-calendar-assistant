@@ -43,6 +43,9 @@ This was achieved by combining:
 
 ## 🔁 Architecture: How the AI Thinks
 
+![Calendar Assistant Flowchart](calendar_assistant_flowchart.png)
+
+
 ```mermaid
 graph TD
     A[User Query] --> B[Planner Agent (Gemini)]
@@ -53,6 +56,7 @@ graph TD
     D --> G[Google Calendar API]
     E --> G
     F --> G
+
 ```
 
 ---
