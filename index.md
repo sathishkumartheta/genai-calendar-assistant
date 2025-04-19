@@ -163,11 +163,11 @@ This assistant was built entirely in a Kaggle notebook, using:
 
 I hope this project inspires more natural, assistive workflows — where AI not only generates text, but takes action.
 
-Thanks to Google GenAI Intensive for the opportunity!
+Thanks to Google and Kaggle for this 5day genai intensive course and the opportunity!
 
 ---
 
 ## 📂 Code Notebook
 
-📎 [View the full Kaggle notebook](https://kaggle.com/)  
+📎 [View the full Kaggle notebook](https://www.kaggle.com/code/sathishkumartheta/genai-calendar-assistant)  
 📸 Includes: code, prompts, architecture, and working examples.
