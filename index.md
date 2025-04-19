@@ -37,7 +37,7 @@ But to truly pull this off, it needed more than just an LLM. It needed orchestra
 ## 🧠 Architecture Overview
 
 <p align="center">
-  <img src="/assets/calendar_architecture.png" alt="AI Calendar Assistant Architecture" width="600"/>
+  <img src="image_flow.png" alt="AI Calendar Assistant Architecture" width="600"/>
 </p>
 
 At the heart of the assistant lies a **planner → executor** pipeline, built using LangChain’s agents and Google Calendar APIs.
